@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_chanel">Campaign channel</string>
+    <string name="sdk_app_name">Proximity SDK</string>
+    <string name="state_campaign_is_not_active">Campaign is no longer active</string>
+    <string name="state_fail_load_campaign">Failed to load campaign</string>
+    <string name="state_no_campaigns">No campaigns</string>
+    <string name="state_sdk_update">Please update the application to restore all functions</string>
+</resources>
